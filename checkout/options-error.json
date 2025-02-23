@@ -1,5 +1,5 @@
 {
-    "error": "Unable to get the product list",
+    "error": "Unable to get the option list",
     "success": false,
     "status": 401
 }

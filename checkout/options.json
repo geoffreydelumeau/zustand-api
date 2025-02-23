@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Livraison en point relais",
+    "price": 10,
+    "description": "Utilsez notre livraison en point relais partout en France !"
+  },
+  {
+    "id": 2,
+    "title": "Livraison à domicile",
+    "price": 15,
+    "description": "Bénéficier de notre livraison directement à votre domicile sans bouger de chez vous !"
+  }
+]

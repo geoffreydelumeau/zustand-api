@@ -1,0 +1,16 @@
+{
+    "user":{
+        "id": "8hjkkj899ijJ5545FGhh6544cH445njki7v3b9743",
+        "firstname": "Hugo",
+        "lastname": "Sousa",
+        "email": "testuser1@hello.com",
+        "address": {
+            "firstline": "14 Rue Marcel Gauthier",
+            "postcode": "37100",
+            "city": "Tours"
+        }
+    },
+    "token": "jkOTEX7J61aIJtz9RsOdjTJtF772F3idXJGJFcbv9twmmBDwiBW9bfqKOW0CDvjNXe9Oog3D",
+    "success": true,
+    "status": 200
+}
